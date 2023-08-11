@@ -1,0 +1,14 @@
+Time is 02:08:29, In: imagine
+Time is 02:08:32, In: all
+Time is 02:08:34, Out: imagine
+Time is 02:08:34, In: the
+Time is 02:08:36, In: people
+Time is 02:08:38, Out: all
+Time is 02:08:38, In: living
+Time is 02:08:42, In: life
+Time is 02:08:45, Out: the
+Time is 02:08:45, In: in
+Time is 02:08:47, In: peace
+Time is 02:08:49, Out: people
+Time is 02:08:49, In: exit
+Terminated!!!

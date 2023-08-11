@@ -1,0 +1,128 @@
+1 threads started;
+	start: 21:47:01
+	duration: 0.12588286399841309
+
+1 processes started;
+	start: 21:47:01
+	duration: 0.1423492431640625
+
+2 threads started;
+	start: 21:47:01
+	duration: 0.13776087760925293
+
+2 processes started;
+	start: 21:47:02
+	duration: 0.08686637878417969
+
+3 threads started;
+	start: 21:47:02
+	duration: 0.1469130516052246
+
+3 processes started;
+	start: 21:47:02
+	duration: 0.06394815444946289
+
+4 threads started;
+	start: 21:47:02
+	duration: 0.12058162689208984
+
+4 processes started;
+	start: 21:47:02
+	duration: 0.05259060859680176
+
+5 threads started;
+	start: 21:47:02
+	duration: 0.121368408203125
+
+5 processes started;
+	start: 21:47:02
+	duration: 0.07705330848693848
+
+6 threads started;
+	start: 21:47:02
+	duration: 0.12651896476745605
+
+6 processes started;
+	start: 21:47:02
+	duration: 0.06612253189086914
+
+7 threads started;
+	start: 21:47:02
+	duration: 0.12213706970214844
+
+7 processes started;
+	start: 21:47:03
+	duration: 0.061406850814819336
+
+8 threads started;
+	start: 21:47:03
+	duration: 0.12134599685668945
+
+8 processes started;
+	start: 21:47:03
+	duration: 0.10518765449523926
+
+9 threads started;
+	start: 21:47:03
+	duration: 0.2294783592224121
+
+9 processes started;
+	start: 21:47:03
+	duration: 0.0920114517211914
+
+10 threads started;
+	start: 21:47:03
+	duration: 0.12369132041931152
+
+10 processes started;
+	start: 21:47:03
+	duration: 0.07090997695922852
+
+11 threads started;
+	start: 21:47:03
+	duration: 0.16256308555603027
+
+11 processes started;
+	start: 21:47:04
+	duration: 0.06322336196899414
+
+12 threads started;
+	start: 21:47:04
+	duration: 0.1218118667602539
+
+12 processes started;
+	start: 21:47:04
+	duration: 0.0688927173614502
+
+13 threads started;
+	start: 21:47:04
+	duration: 0.1211099624633789
+
+13 processes started;
+	start: 21:47:04
+	duration: 0.06123185157775879
+
+14 threads started;
+	start: 21:47:04
+	duration: 0.1236417293548584
+
+14 processes started;
+	start: 21:47:04
+	duration: 0.062337636947631836
+
+15 threads started;
+	start: 21:47:04
+	duration: 0.12111258506774902
+
+15 processes started;
+	start: 21:47:04
+	duration: 0.06218695640563965
+
+16 threads started;
+	start: 21:47:04
+	duration: 0.12115168571472168
+
+16 processes started;
+	start: 21:47:04
+	duration: 0.062157630920410156
+
